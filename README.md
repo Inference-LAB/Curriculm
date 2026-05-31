@@ -31,4 +31,6 @@ Everything else is built from here.
 ## Enrollment
 
 Inference Lab runs small cohorts with direct mentorship.
-For enrollment inquiries: [Email: (inferencelab.ai@gmail.com)](inferencelab.ai@gmail.com)
+For enrollment inquiries: 
+[Email: inferencelab.ai@gmail.com](mailto:inferencelab.ai@gmail.com)
+[Contact Number](+923269575321)
