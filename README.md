@@ -1,4 +1,4 @@
-# Inference Lab — AI Engineering Curriculum
+# Inference Lab — Applied AI Engineering Curriculum
 
 A structured 12.5-month program that takes developers 
 from basic Python syntax to building and deploying 
@@ -30,8 +30,8 @@ Everything else is built from here.
 
 ## Enrollment
 
-Inference Lab runs small cohorts with direct mentorship.
-For enrollment inquiries: 
+At Inference Lab, we also run small cohorts with direct mentorship.
+For enrollment and mentorship inquiries:
 
 - [Email: inferencelab.ai@gmail.com](mailto:inferencelab.ai@gmail.com)
 - [Contact Number: +923269575321](+923269575321)
